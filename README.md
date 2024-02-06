@@ -1,5 +1,8 @@
-### Seattle Airbnb Data 
-Table of Contents
+# Seattle Airbnb Project
+## Udacity CRISP Project on writing a Data Science Blog Post
+
+Table of Contents:
+
 * [Libraries](#libraries)
 * [Project Motivation](#project-motivation)
 * [File Description](#description-of-files)
