@@ -1,5 +1,6 @@
 # Seattle Airbnb Project
 ## Udacity CRISP Project on writing a Data Science Blog Post
+<img width="565" alt="Screen Shot 2024-02-06 at 4 31 54 PM" src="https://github.com/melfaraz/CRISP-DM-Project/assets/157326557/34308d10-d16c-4bd1-b9e8-63e648794aa7">
 
 Table of Contents:
 
