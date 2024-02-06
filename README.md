@@ -1,8 +1,10 @@
 # Seattle Airbnb Project
-## Udacity CRISP Project on writing a Data Science Blog Post
+## Udacity CRISP Project on Writing a Data Science Blog Post
 <img width="565" alt="Screen Shot 2024-02-06 at 4 31 54 PM" src="https://github.com/melfaraz/CRISP-DM-Project/assets/157326557/34308d10-d16c-4bd1-b9e8-63e648794aa7">
 
-Table of Contents:
+
+
+### Table of Contents:
 
 * [Libraries](#libraries)
 * [Project Motivation](#project-motivation)
@@ -23,12 +25,12 @@ The project was conducted utilizing Python 3.0 through the jupyter notebook . he
 My curiosity led me to explore the AirBnB dataset for Seattle, focusing on pricing dynamics, and price forecasting. 
 Key inquiries addressed encompassed:
 
-How does pricing vary seasonally?
-When does Seattle experience its peak demand?
-What factors influence pricing across different neighborhoods?
-Which neighborhoods command the highest prices?
-How do property types within neighborhoods impact pricing?
-Is it feasible to predict listing prices, and if so, what factors are most impactful?
+* How does pricing vary seasonally?
+* When does Seattle experience its peak demand?
+* What factors influence pricing across different neighborhoods?
+* Which neighborhoods command the highest prices?
+* How do property types within neighborhoods impact pricing?
+* Is it feasible to predict listing prices, and if so, what factors are most impactful?
 
 ## Description of Files:
 The Jupyter notebook delineates dataset exploration, preparation, wrangling, and predictive modeling to address the aforementioned questions. Markdown cells provide documentation and insights at each stage. The 'seattle' folder contains datasets sourced from Kaggle, including 'calendar.csv', 'listings.csv', and 'reviews.csv'.
