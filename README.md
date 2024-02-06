@@ -1,9 +1,9 @@
 ### Seattle Airbnb Data 
 Table of Contents
-* [Libraries]()
-* [Project Motivation]()
-* [File Description]()
-* [Summary]()
+* [Libraries](#libraries)
+* [Project Motivation](#project-motivation)
+* [File Description](#description-of-files)
+* [Summary](#summary-of-findings)
 
 
 ## Libraries
