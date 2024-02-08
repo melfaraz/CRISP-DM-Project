@@ -1,4 +1,4 @@
-# Seattle Airbnb Project
+# Hey Travelers, Do you want to know more about Seattle Airbnb prices ?
 ## Udacity CRISP Project on Writing a Data Science Blog Post
 <img width="565" alt="Screen Shot 2024-02-06 at 4 31 54 PM" src="https://github.com/melfaraz/CRISP-DM-Project/assets/157326557/34308d10-d16c-4bd1-b9e8-63e648794aa7">
 
@@ -39,6 +39,7 @@ The Jupyter notebook delineates dataset exploration, preparation, wrangling, and
 Key discoveries include:
 
 * Seattle's peak season spans from June to August, with July witnessing the highest activity.
+  
 * "Southeast Magnolia" and Portage Bay emerge as the priciest neighborhoods, while Rainier Beach offers more affordable options.
 * Portage Bay houses command the highest prices, followed by those in West Queen Anne and Westlake.
 * Using Linear Regression, price prediction achieved an R2 score of 0.52 across both training and test datasets.
