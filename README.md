@@ -10,6 +10,7 @@
 * [Project Motivation](#project-motivation)
 * [File Description](#description-of-files)
 * [Summary](#summary-of-findings)
+* [Acknowledgements](#acknowledgements)
 
 
 ## Libraries
@@ -48,6 +49,10 @@ Key discoveries include:
   <img width="520" alt="Screen Shot 2024-02-10 at 2 57 10 PM" src="https://github.com/melfaraz/CRISP-DM-Project/assets/157326557/b4345192-cf41-48c0-96c6-e9bfb7270415">
 * Using Linear Regression, price prediction achieved an R2 score of 0.52 across both training and test datasets.
 * Host details and listing descriptions significantly influence pricing dynamics.
+
+## Acknowledgements
+
+Certainly, credit goes to AirBnB and Kaggle for providing access to the AirBnB dataset. The dataset can be found at the following link: (https://www.kaggle.com/datasets/airbnb/seattle). This dataset is a valuable resource for various data analysis, machine learning, and research projects related to the AirBnB ecosystem and the city of Seattle.
 
 
 
