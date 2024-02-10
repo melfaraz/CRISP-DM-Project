@@ -45,6 +45,7 @@ Key discoveries include:
 * <img width="1076" alt="Screen Shot 2024-02-07 at 5 41 54 PM" src="https://github.com/melfaraz/CRISP-DM-Project/assets/157326557/bbf1f84f-ab5b-4e94-b2eb-7d4385a1aceb">
 
 * Portage Bay houses command the highest prices, followed by those in West Queen Anne and Westlake.
+  <img width="520" alt="Screen Shot 2024-02-10 at 2 57 10 PM" src="https://github.com/melfaraz/CRISP-DM-Project/assets/157326557/b4345192-cf41-48c0-96c6-e9bfb7270415">
 * Using Linear Regression, price prediction achieved an R2 score of 0.52 across both training and test datasets.
 * Host details and listing descriptions significantly influence pricing dynamics.
 
