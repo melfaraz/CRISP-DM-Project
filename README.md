@@ -39,6 +39,7 @@ The Jupyter notebook delineates dataset exploration, preparation, wrangling, and
 Key discoveries include:
 
 * Seattle's peak season spans from June to August, with July witnessing the highest activity.
+
   
 * "Southeast Magnolia" and Portage Bay emerge as the priciest neighborhoods, while Rainier Beach offers more affordable options.
 * <img width="1076" alt="Screen Shot 2024-02-07 at 5 41 54 PM" src="https://github.com/melfaraz/CRISP-DM-Project/assets/157326557/bbf1f84f-ab5b-4e94-b2eb-7d4385a1aceb">
